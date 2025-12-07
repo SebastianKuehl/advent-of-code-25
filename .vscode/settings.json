@@ -6,5 +6,6 @@
     "go.lintOnSave": "file",
     "gopls": {
         "ui.semanticTokens": true
-    }
+    },
+    "output.smartScroll.enabled": false
 }
