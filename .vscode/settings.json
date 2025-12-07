@@ -1,0 +1,10 @@
+{
+    "go.useLanguageServer": true,
+    "go.formatTool": "goimports",
+    "go.lintTool": "golangci-lint",
+    "editor.formatOnSave": true,
+    "go.lintOnSave": "file",
+    "gopls": {
+        "ui.semanticTokens": true
+    }
+}
